@@ -1,0 +1,11 @@
+body
+{
+    background-color: lightslategray; 
+    color: darkgreen; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 12px;
+    text-align: center;
+}
+.sy-home {width: 75px;}
+.footer {text-align: center;}
+.pagetitle { text-align: center;}
